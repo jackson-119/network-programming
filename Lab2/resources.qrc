@@ -1,0 +1,17 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>qmls/main.qml</file>
+        <file>qmls/components/ChatList.qml</file>
+        <file>qmls/components/ChatListItem.qml</file>
+        <file>qmls/components/MessageList.qml</file>
+        <file>qmls/components/MessageBubble.qml</file>
+        <file>qmls/components/InputArea.qml</file>
+        <file>qmls/components/Avatar.qml</file>
+        <file>qmls/components/AvatarBar.qml</file>
+        <file>qmls/components/SelectableUserList.qml</file>
+        <file>qmls/components/CreateGroupWindow.qml</file>
+        <file>avatars/1.png</file>
+    </qresource>
+
+</RCC>
